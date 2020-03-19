@@ -1,4 +1,4 @@
-package f64
+package parsers
 
 import (
 	"encoding/json"

@@ -1,3 +1,3 @@
-module gobasics.dev/f64
+module gobasics.dev/parsers
 
 go 1.14
